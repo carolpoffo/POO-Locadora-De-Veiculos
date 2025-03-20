@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace POO_Locadora_De_Veículos
 {
-    public class Carro
+    //Herdam de Veiculo e sobrescrevem CalcularAluguel(int dias):
+    //• Carro: custo do aluguel é valor base diário x dias.
+    public class Carro : Veiculo
     {
+        public override double CalcularAluguel(int dias)
+        {
+            return ValorBaseDiario * dias;
+        }
     }
 }

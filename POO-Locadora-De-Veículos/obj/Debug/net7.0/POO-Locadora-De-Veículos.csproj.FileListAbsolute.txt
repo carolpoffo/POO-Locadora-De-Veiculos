@@ -1,0 +1,15 @@
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\bin\Debug\net7.0\POO-Locadora-De-Veículos.exe
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\bin\Debug\net7.0\POO-Locadora-De-Veículos.deps.json
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\bin\Debug\net7.0\POO-Locadora-De-Veículos.runtimeconfig.json
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\bin\Debug\net7.0\POO-Locadora-De-Veículos.dll
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\bin\Debug\net7.0\POO-Locadora-De-Veículos.pdb
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\POO-Locadora-De-Veículos.csproj.AssemblyReference.cache
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\POO-Locadora-De-Veículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\POO-Locadora-De-Veículos.AssemblyInfoInputs.cache
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\POO-Locadora-De-Veículos.AssemblyInfo.cs
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\POO-Locadora-De-Veículos.csproj.CoreCompileInputs.cache
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\POO-Locadora-De-Veículos.dll
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\refint\POO-Locadora-De-Veículos.dll
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\POO-Locadora-De-Veículos.pdb
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\POO-Locadora-De-Veículos.genruntimeconfig.cache
+C:\Users\carolina.poffo\source\repos\POO-Locadora-De-Veículos\POO-Locadora-De-Veículos\obj\Debug\net7.0\ref\POO-Locadora-De-Veículos.dll

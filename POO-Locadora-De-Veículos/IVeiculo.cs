@@ -9,5 +9,6 @@ namespace POO_Locadora_De_Veículos
     //Método CalcularAluguel(int dias), que retorna o custo total do aluguel com base na categoria do veículo e na quantidade de dias alugados.
     public interface IVeiculo
     {
+        double CalcularAluguel(int dias);
     }
 }
