@@ -2,8 +2,6 @@
 
 namespace POO_Locadora_De_Veículos
 {
-    //• Cadastre pelo menos um veículo de cada tipo.
-    //• Exiba o modelo, marca, ano e custo do aluguel para um determinado número de dias
     public class Program
     {
         static void Main()
